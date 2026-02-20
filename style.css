@@ -17,5 +17,16 @@
 .internshipBox {
     margin-left: 40px;
     margin-right: 740px;
-    
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    flex: 1;
+    padding: 15px;
+    /* background: #f0f0f0; */
+    text-align: center;
 }
